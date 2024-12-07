@@ -1,0 +1,3 @@
+[submodule "tensornetworkrg"]
+	path = tensornetworkrg
+	url = git@github.com:brucelyu/tensornetworkrg.git
