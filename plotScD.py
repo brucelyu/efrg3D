@@ -193,7 +193,7 @@ plt.xticks(rgsteps)
 if len(rgsteps) == 1:
     plt.xlim([rgsteps[0] - 1, rgsteps[0] + 1])
 # plt.ylim([-0.1, 4.2])
-plt.ylim([-0.1, 3.5])
+plt.ylim([-0.1, 3.4])
 plt.ylabel("Even sector")
 
 arrowpps = dict(arrowstyle="->", alpha=0.2, color='blue')
@@ -256,7 +256,7 @@ plt.hlines(3.5181489, rgsteps[0]-0.2, rgsteps[-1]+0.5,
 # set axis ranges
 plt.xticks(rgsteps)
 # plt.ylim([-0.1, 4.0])
-plt.ylim([-0.1, 3.5])
+plt.ylim([-0.1, 3.0])
 plt.ylabel("Odd sector")
 plt.xlabel("RG step")
 
