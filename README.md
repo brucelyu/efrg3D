@@ -16,7 +16,7 @@ The codes are written in Python.
 The standard tool kit for scientific computating for python is [Ananconda](https://www.anaconda.com/download/).
 In addition, we need the following packages for tensor network manipulations:
 - [ncon](https://github.com/mhauru/ncon), for tensor network contractions
-- [abeliantensors](https://github.com/mhauru/abeliantensors), for imposing $\mathbb{Z}_2$ spin-flip symmetry of the Ising model
+- [abeliantensors](https://github.com/mhauru/abeliantensors), for imposing ℤ₂ spin-flip symmetry of the Ising model
 - [tn-tools](https://github.com/mhauru/tntools), for producing the initial tensor of the Ising model
 
 
